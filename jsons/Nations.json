@@ -30,7 +30,7 @@
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"uniqueName": "International Statute of Secrecy"
-		"uniques": ["[+1] Movement <for [ALL] units>", "[{Military} {Land}] units gain the [Cover] promotion", -10% strength when adjacent to enemy cities],
+		"uniques": ["[+1] Movement <for [ALL] units>", "[{Military} {Land}] units gain the [Cover] promotion", -10% strength within 1 tiles to enemy cities],
 		"cities": ["Hogwarts","Hogsmeade","Diagon Alley","Gringotts","Nocturn Alley","Godric's Hollow","12 Grimmauld Place","Lovegood House","Malfoy Manor",
 			"Burrow","St. Mungo's","Kings Cross","4 Private Place","Riddle House","MACUSA","Ilvermorny","Beauxbatons","Durmstrang","Nurmengard","Koldovstoretz",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
