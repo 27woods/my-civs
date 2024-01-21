@@ -29,7 +29,7 @@
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
+		"uniques": ["[+2] Movement <for [Water] units>"]
 		"cities": ["Hogwarts","Hogsmeade","Diagon Alley","Gringotts","Nocturn Alley","Godric's Hollow","12 Grimmauld Place","Lovegood House","Malfoy Manor",
 			"Burrow","St. Mungo's","Kings Cross","4 Private Place","Riddle House","MACUSA","Ilvermorny","Beauxbatons","Durmstrang","Nurmengard","Koldovstoretz",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
