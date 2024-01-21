@@ -2,7 +2,7 @@
 	{
 		"name": "Hogwarts",
 		"replaces": "Library",
-		"uniqueTo": "Wizards,
+		"uniqueTo": "Wizards",
 		"cost": 80,
 		"uniques": ["[+2 Science] per [3] population [in this city]"],
 		"culture": 1,
